@@ -11,7 +11,7 @@ public:
             {
                 parent.push_back(i);
                 size.push_back(1);                
-                rank.push_back(1);                
+                rank.push_back(0);                
             }
         }
     public:
